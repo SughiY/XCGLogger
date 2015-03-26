@@ -1,0 +1,26 @@
+{
+  "name": "XCGLogger",
+  "version": "1.8.1",
+  "summary": "A cool logger library for swift",
+  "description": "A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.",
+  "homepage": "https://github.com/DaveWoodCom/XCGLogger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Dave Wood": ""
+  },
+  "platforms": {
+    "ios": "7.0?"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/SughiY/XCGLogger.git",
+    "tag": "v1.8.1"
+  },
+  "source_files": [
+    "library",
+    "library/**/*.{h,swift}"
+  ]
+}
